@@ -1,0 +1,6 @@
+env/lib
+env/include
+__pycache__
+
+dist
+build
